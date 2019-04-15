@@ -1,0 +1,81 @@
+                               References
+
+1. Abhishek Dey and Samir Bandyopadhyay, K. (2016) ‘Automated Glaucoma
+Detection Using Support Vector Machine Classification Method’, British
+Journal of Medicine Medical Research, Vol. 11, No. 12, pp. 1368-1372.
+
+2. Almazroa, A., Burman, R., Raahemifar, K. and Lakshminarayanan, S.
+(2017) ‘Optic Disc and Cup Segmentation Methods for Glaucoma Detection
+with Modification of U-Net Convolutional Neural Network’, Journal of
+Ophthalmology, Vol. 27, No. 3, pp. 618-624.
+
+3. Baidaa Al-Bander, Waleed Al-Nuaimy and Majid Al-Taee, A. (2017)
+‘Automated Glaucoma Diagnosis using Deep Learning Approach’, 14th
+International Multi-Conference on Systems, Signals & Devices (SSD), pp.
+5386-3175.
+
+4. Burlina, P., Josh, N., Gao, M. and Pekala, M. (2017) ‘Automated Grading
+of Age-Related Macular Degeneration From Color Fundus Images Using
+Deep Convolutional Neural Networks’, The Journal of the American Medical
+Association Ophthalmology, Vol. 135, No. 11, pp. 1170-1176.
+
+5. Chandrakumar, T. and Kathirvel, R. (2016) ‘Classifying Diabetic Retinopathy
+using Deep Learning Architecture’, International Journal of Engineering
+Research Technology, Vol. 5, No. 6, pp. 2278-0181.
+
+6. Eman Shahin, M., Taha, E., Gao, M. and Al-Nuaimy, W. (2013) ‘Automated
+Detection of Diabetic Retinopathy in Blurred Digital Fundus Images’, 52nd
+Annual Conference of the British Institute for Non-Destructive Testing, pp.
+20-25.
+
+7. Giraddi, S. and Pujari, J. (2015) ‘Identifying abnormalities in the
+Retinal Images using SVM Classifiers’, International Journal of Computer
+Applications, Vol. 111, pp. 0975-8887.
+
+8. Gulshan, V., Peng, L., Coram, M. and Narayanaswamy, A. (2016)
+‘Development and Validation of a Deep Learning Algorithm for Detection
+of Diabetic Retinopathy in Retinal Fundus Photographs’, The Journal of the
+American Medical Association, Vol. 316, No. 22, pp. 2402-2410.
+
+9. Harry Pratta, Frans Coenenb, Simon Hardinga, P. and Yalin Zhenga (2017)
+‘Convolutional Neural Networks for Diabetic Retinopathy’, The Journal of
+Machine Learning Research, Vol. 90, pp. 200-205.
+
+10. Mahendran Gandhi and Dhanasekaran, R. (2016) ‘Diagnosis of Diabetic
+Retinopathy Using Morphological Process and SVM Classifier’, International
+Conference on Communications and Signal Processing (ICCSP), pp. 873-877.
+
+11. Maheshwari, S., Pachori, R. and Acharya, R. (2017) ‘Automated Diagnosis
+of Glaucoma Using Empirical Wavelet Transform and Correntropy Features
+Extracted From Fundus Images’, IEEE Journal of Biomedical and Health
+Informatics, Vol. 21, No. 3, pp. 803-813.
+
+12. Nitish Srivastava, Geoffrey Hinton and Alex Krizhevsky (2014) ‘Dropout:
+A simple way to prevent neural networks from overfitting’, The Journal of
+Machine Learning Research, Vol. 15, No. 1, pp. 1929-1958.
+
+13. Rathinam, S. and Selvarajan, S. (2013) ‘Comparison of Image Preprocessing
+Techniques on Fundus Images for Early Diagnosis of Glaucoma’,
+International Journal of Scientific Engineering Research, Vol. 4, No. 12, pp.
+1368-1372.
+
+14. Renuka Devi, M. and HariniPriyaDharsini, B. (2016) ‘Analysis of Retinal
+Blood Vessel using Image Processing techniques’, International Conference
+on Intelligent Computing Applications (ICICA), Vol. 59, pp. 244-248.
+
+15. Roychowdhury Sohini, Dara Koozekanani, D. and Keshab Parhi, K. (2014)
+‘Diabetic Retinopathy Analysis Using Machine Learning’, IEEE Journal of
+Biomedical and Health Informatics, Vol. 18, No. 5, pp. 1717-1728.
+
+16. Sahithya Sri, P., Chitra, P. and Mahalakshmi, K. (2015) ‘A survey based
+on glaucoma detection’,Imperial Journal of Interdisciplinary Research (IJIR),
+Vol. 6, pp. 1605-1611.
+
+17. Shin, H., Roth, H., Gao, M. and Summers, S. (2017) ‘Deep Convolutional
+Neural Networks for Computer-Aided Detection: CNN Architectures, Dataset
+Characteristics and Transfer Learning’, IEEE Transactions on Medical
+Imaging, Vol. 35, No. 5, pp. 1285-1298.
+
+18. ‘Diabetic Retinopathy dataset Kaggle’, https://www.kaggle.com/c/classroomdiabetic-retinopathy-detection-competition/data, December 28, 2018.
+
+19. ‘Glaucoma Dataset RIM-ONE’, https://medimrg.webs.ull.es/research/retinalimaging/rim-one, January 27, 2019
