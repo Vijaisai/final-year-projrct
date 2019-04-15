@@ -29,7 +29,7 @@ The Dataset for Glaucoma contains 2 classes. A total number of 2664 images are u
 
 Data Pre-processing : Conversion of RGB images to Grayscale images. Conversion to grayscale images are done to improvement in testing accuracy.
 
-Data Augmentation : Rotation, Zooming, Shearing, Horizontal and Vertical Flip are done on images of all classes. Data augmentation is done for balancing the classes with equal number of images.
+Data Augmentation : Rotation, Zooming, Shearing, Horizontal and Vertical Flip are done on images of all classes. Data augmentation is done for balancing the classes with equal number of images .
 
 Training the model by using CNN layers. We have used 3 convolutoinal & max pooling layer, A dropout, Dense and a Fully Connected Layer.
 
